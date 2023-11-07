@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jardim Secreto das Suculentas</title>
+    <style>
+        body {
+            background-color: #F5EEE6;
+        }
+        
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+        
+        h1 {
+            font-size: 40px;
+            color: #8B4513;
+        }
+        
+        .content {
+            margin: 20px;
+        }
+        
+        .tab {
+            margin-bottom: 20px;
+        }
+        
+        .tab h2 {
+            color: #8B4513;
+        }
+        
+        .tab p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jardim Secreto das Suculentas</h1>
+    </header>
+
+    <div class="content">
+        <div class="tab">
+            <h2>Sobre nós</h2>
+            <p>Olá! Nós somos uma banca do Colégio Estadual Narciso Mendes. Nós participaremos de uma feira onde venderemos nossas próprias suculentas. A nossa empresa O Jardim Secreto das Suculentas venderá as plantas cultivadas por nós mesmos da turma do 2°C em um projeto de biotecnologia.</p>
+            <p>Temos cerca de 30 suculentas a venda por R$05,00. Todas as nossas suculentas ainda são mudas com raiz e brotos já crescendo.</p>
+        </div>
+
+        <div class="tab">
+            <h2>Cuidados</h2>
+            <p>Aqui vão alguns cuidados para você ter com a sua nova suculenta:</p>
+            <ul>
+                <li>Luz: Coloque sua suculenta em um local com luz indireta brilhante. Elas adoram a luz do sol, mas evite a luz solar direta forte, pois pode queimar as folhas.</li>
+                <li>Rega: A regra de ouro é "menos é mais". Deixe o solo secar completamente entre as regas. Regue profundamente, mas com pouca frequência, normalmente a cada 2-3 semanas.</li>
+                <li>Vaso e solo: Use um vaso com furos de drenagem para evitar o acúmulo de água no fundo. O solo deve ser bem drenável, como um solo específico para suculentas.</li>
+                <li>Temperatura: As suculentas preferem temperaturas mais quentes. Mantenha-as longe de correntes de ar frio.</li>
+                <li>Poda: Remova as folhas ou partes danificadas para manter a planta saudável.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

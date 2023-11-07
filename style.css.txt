@@ -1,0 +1,32 @@
+style.css
+body {
+  background-color: #f5f0e1;
+}
+
+.container {
+  max-width: 100%;
+  margin: 10 auto;
+  padding: 10;
+}
+
+.header {
+  width: 100%;
+  height: auto;
+}
+
+
+.content {
+  text-align: center;
+}
+
+.text {
+  color: #333 ;
+}
+
+.title {
+  color: #333;
+}
+
+.border {
+  border: 2px solid #c2e5ca;
+}
